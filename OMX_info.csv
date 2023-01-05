@@ -1,0 +1,26 @@
+financials_id,company_id,ticker,longName,industry,sector
+0,1,COLO-B.CO,Coloplast A/S,Medical Instruments & Supplies,Healthcare
+1,2,CHR.CO,Chr. Hansen Holding A/S,Specialty Chemicals,Basic Materials
+2,3,TRYG.CO,Tryg A/S,Insurance—Diversified,Financial Services
+3,4,GN.CO,GN Store Nord A/S,Medical Devices,Healthcare
+4,5,ROCK-B.CO,Rockwool A/S,Building Products & Equipment,Industrials
+5,6,GMAB.CO,Genmab A/S,Biotechnology,Healthcare
+6,7,FLS.CO,FLSmidth & Co. A/S,Specialty Industrial Machinery,Industrials
+7,8,NOVO-B.CO,Novo Nordisk A/S,Biotechnology,Healthcare
+8,9,MAERSK-B.CO,A.P. Møller - Mærsk A/S,Marine Shipping,Industrials
+9,10,DSV.CO,DSV A/S,Integrated Freight & Logistics,Industrials
+10,11,ISS.CO,ISS A/S,Specialty Business Services,Industrials
+11,12,BAVA.CO,Bavarian Nordic A/S,Biotechnology,Healthcare
+12,13,NETC.CO,Netcompany Group A/S,Information Technology Services,Technology
+13,14,MAERSK-A.CO,A.P. Møller - Mærsk A/S,Marine Shipping,Industrials
+14,15,CARL-B.CO,Carlsberg A/S,Beverages—Brewers,Consumer Defensive
+15,16,ORSTED.CO,Ørsted A/S,Utilities—Renewable,Utilities
+16,17,RBREW.CO,Royal Unibrew A/S,Beverages—Brewers,Consumer Defensive
+17,18,NZYM-B.CO,Novozymes A/S,Specialty Chemicals,Basic Materials
+18,19,DEMANT.CO,Demant A/S,Medical Devices,Healthcare
+19,20,NDA-DK.CO,Nordea Bank Abp,Banks—Regional,Financial Services
+20,21,PNDORA.CO,Pandora A/S,Luxury Goods,Consumer Cyclical
+21,22,AMBU-B.CO,Ambu A/S,Medical Devices,Healthcare
+22,23,DANSKE.CO,Danske Bank A/S,Banks—Regional,Financial Services
+23,24,VWS.CO,Vestas Wind Systems A/S,Specialty Industrial Machinery,Industrials
+24,25,JYSK.CO,Jyske Bank A/S,Banks—Regional,Financial Services
